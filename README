@@ -1,54 +1,58 @@
-Applied Machine Learning (COMP3132)
+# Applied Machine Learning – COMP3132
 
-This repository contains assignments from my Applied Machine Learning course, focusing on neural networks, image processing, and model evaluation using Python.
+This repository contains projects from my Applied Machine Learning course, focusing on **data preprocessing, analysis, neural networks, image classification, and model evaluation using Python**.
 
-
-OVERVIEW
+## Overview
 
 These projects demonstrate hands-on experience with:
-    - Data preprocessing and dataset handling
-    - Neural networks and deep learning concepts
-    - Image classification and convolution operations
-    - Model evaluation, overfitting, and performance improvement techniques
 
+* Data preprocessing and dataset preparation
+* Exploratory analysis and visualization
+* Neural networks and deep learning
+* Image classification and convolution operations
+* Model evaluation and performance analysis
+* Identifying and addressing overfitting
 
-TECHNOLOGIES
-    - Python
-    - NumPy, Pandas
-    - Matplotlib
-    - TensorFlow / Keras
-    - Jupyter Notebook
+## Technologies
 
+* **Python**
+* **NumPy, Pandas**
+* **Matplotlib**
+* **TensorFlow / Keras**
+* **Jupyter Notebook**
 
-ASSIGNMENTS
-Assignment 1 – MNIST vs Fashion-MNIST Analysis
-    - Compared performance between MNIST and Fashion-MNIST datasets
-    - Analyzed classification difficulty and accuracy differences
-    - Explored how dataset complexity affects model performance
+## Assignments
 
-Assignment 2 – Iris Classification (Neural Networks)
-    - Built a multiclass classification model using the Iris dataset
-    - Converted categorical labels into numerical format
-    - Explored model architecture (layers, neurons) and overfitting
-    - Evaluated model performance and generalization
+### Assignment 1 – MNIST vs Fashion-MNIST Analysis
 
-Assignment 3 – Convolution & Neural Networks
-    - Implemented and visualized 2D convolution operations
-    - Applied kernels for edge and line detection in images
-    - Trained a neural network for image-related tasks
-    - Developed understanding of feature extraction in CNNs
+* Compared model performance across MNIST and Fashion-MNIST datasets
+* Analyzed classification difficulty and accuracy differences
+* Explored how dataset complexity affects model performance
 
-Assignment 4 – CIFAR-10 & Overfitting Reduction
-    - Built a convolutional neural network (CNN) on CIFAR-10
-    - Demonstrated overfitting using an overparameterized model
-    - Applied techniques to improve performance:
-    - Dropout
-    - L2 Regularization
-    - Data Augmentation
-    - Compared model performance using loss and accuracy graphs
+### Assignment 2 – Iris Classification
 
-KEY TAKEAWAYS
-    - Strong understanding of deep learning fundamentals
-    - Experience working with image datasets and CNNs
-    - Ability to identify and reduce overfitting in models
-    - Practical knowledge of the full ML workflow (data → model → evaluation)
+* Built a multiclass classification model using the Iris dataset
+* Preprocessed and transformed categorical data
+* Evaluated model performance and generalization
+* Explored model architecture and overfitting
+
+### Assignment 3 – Convolution & Neural Networks
+
+* Implemented and visualized 2D convolution operations
+* Applied image-processing techniques for edge and line detection
+* Explored feature extraction using convolutional neural networks
+
+### Assignment 4 – CIFAR-10 & Overfitting Reduction
+
+* Built and evaluated a convolutional neural network using CIFAR-10
+* Analyzed model overfitting using loss and accuracy metrics
+* Applied Dropout, L2 Regularization, and Data Augmentation
+* Compared model performance before and after optimization
+
+## Key Takeaways
+
+* Experience with the **data preprocessing and analysis workflow**
+* Practical experience working with structured and image-based datasets
+* Experience creating visualizations to evaluate model performance
+* Understanding of model evaluation, performance metrics, and overfitting
+* Hands-on experience with **Python, Pandas, NumPy, and Matplotlib**
